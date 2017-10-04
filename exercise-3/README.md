@@ -9,3 +9,24 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# cat
+```
+$ cat yourfilename
+Prints the contents of your file.
+
+$ cat yourfilename > otherfilename
+Prints the contents of your file.
+This step adds a line?
+```
+
+- Prints the contents of your file
+  - Let's you see what's in the file
+  - I don't really know what else
+  - It's not a complicated command.
+- Let's you add text to your file, too
+  - Although I'm not sure how you do that.
+  - Would be cool, though!
+  - I guess I should find out.
+
+
